@@ -1,0 +1,83 @@
+#playButton{
+	height:60px;
+	width: 60px;
+	border: none;
+	background-size: 50% 50%;
+	background-position: center;
+	cursor: pointer;
+}
+
+.current-time {
+	color: white;
+	font-family: Helvetica;
+}
+
+.total-duration {
+	color: white;
+	font-family: Helvetica;
+}
+
+.menu-item {
+    width: 100px;
+    height: 25px;
+	line-height: 25px;
+	color: white;
+	font-family: Helvetica;
+	background-color: black;
+    border: 1px solid white;
+    list-style-type: none;
+	text-align: start;
+	padding: 10px;
+	cursor: pointer;
+}
+
+#volButton{
+	height:50px;
+	width: 50px;
+	border: none;
+	background-size: 50% 50%;
+	background-position: center;
+	cursor: pointer;
+}
+
+#fsButton{
+	height:50px;
+	width: 50px;
+	border: none;
+	background-size: 50% 50%;
+	background-position: center;
+	cursor: pointer;
+}
+
+#burger-icon{
+	height:50px;
+	width: 50px;
+	border: none;
+	background-size: 45% 45%;
+	background-position: center;
+	cursor: pointer;
+}
+
+#timeline{
+	/* width: 400px; */
+	height: 20px;
+	background: gray;
+	margin-top: 20px;
+	float: left;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+#playhead{
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
+	margin-top: 1px;
+	background: white;
+}
+
+#volume-slider {
+	cursor: pointer;
+	opacity: 0;
+}
+
