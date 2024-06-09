@@ -1,4 +1,4 @@
-# My Music Visualiser 
+# Another Music Visualiser 
 Introducing a mesmerising music visualizer crafted with JavaScript and powered by the P5 library for seamless GUI integration and precise audio processing. Dive into an immersive audio-visual experience with just a click or by downloading and running it on your preferred IDE. This web-based application boasts five dynamic visualisations meticulously designed to showcase various facets of the track. From pulsating bass rhythms to soaring high notes, each visualisation offers a unique perspective, transforming the music into a captivating visual journey. 
 
 ## How to use it?
