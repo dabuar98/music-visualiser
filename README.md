@@ -6,7 +6,7 @@ Introducing a mesmerising music visualizer crafted with JavaScript and powered b
 Using this captivating music visualiser is as easy as hitting play on your favourite track. Here's how:
 
 1. **Accessing the Visualiser**:
-   - Simply click on the link provided in the description to open the web-based application in your browser.
+   - Simply click on this [link](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dabuar98/music-visualiser/main/index.html) to open the web-based application in your browser.
    - Alternatively, download the application and run it on your preferred IDE.
 
 2. **Selecting a Visualisation**:
