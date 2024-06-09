@@ -62,6 +62,14 @@ To submit your audio track and personalise your music visualiser experience, fol
    - Launch a web browser and open the visualizer application from your local repository.
    - Your personalized audio track should now be loaded and ready to accompany the mesmerising visualizations.
 
-By following these steps, you can seamlessly integrate your own audio track into the music visualizer and tailor the experience to your unique musical preferences. Enjoy exploring the dynamic visualizations synchronized with your chosen soundtrack!
+By following these steps, you can seamlessly integrate your own audio track into the music visualizer and tailor the experience to your unique musical preferences. Enjoy exploring the dynamic visualizations synchronised with your chosen soundtrack!
+
+## Copyright
+
+**Title:** "Gimme Some Love"  
+**Artist:** Vizionn  
+**YouTube Video URL:** [Gimme Some Love - Vizionn](https://www.youtube.com/watch?v=ni7uXBYi1iQ&ab_channel=Vizionn-Topic)  
+**Copyright Owner:** ℗ Union Trance Mission
+
 
 
