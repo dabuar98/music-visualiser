@@ -64,7 +64,9 @@ To submit your audio track and personalise your music visualiser experience, fol
 
 By following these steps, you can seamlessly integrate your own audio track into the music visualizer and tailor the experience to your unique musical preferences. Enjoy exploring the dynamic visualizations synchronised with your chosen soundtrack!
 
-## Copyright
+## Disclaimer
+
+The track "Gimme Some Love" referenced in this work is sourced from the YouTube video available at [Gimme Some Love - Vizionn](https://www.youtube.com/watch?v=ni7uXBYi1iQ&ab_channel=Vizionn-Topic). The track is the copyrighted material of its respective owner, Vizionn. Its inclusion in this work is solely for reference and educational purposes. I do not claim any ownership rights over the track. Any use of the track beyond this context may require permission from the copyright owner. I acknowledge and respect the intellectual property rights of the copyright owner.
 
 **Title:** "Gimme Some Love"  
 **Artist:** Vizionn  
